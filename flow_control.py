@@ -22,3 +22,14 @@ elif day=="Wednesday":
        print("Today is Wednesday")
 else:
     print("toad is Holiday")       
+    
+    
+    
+    
+    num = int(input("Enter a number: "))
+
+    
+if num > 0 or num < 0:
+    print("The number is either positive or negative")
+else:
+    print("The number is zero")
